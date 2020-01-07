@@ -1,5 +1,4 @@
 class ConsoleInterface
-
   FIGURES =
     Dir["#{__dir__}/../data/figures/*.txt"].
     sort.
